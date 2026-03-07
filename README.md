@@ -1,0 +1,2 @@
+# Engenharia_de_Prompt_Aplicacoes_Ai
+Atividades_da_Faculdade
